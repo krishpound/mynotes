@@ -1,0 +1,37 @@
+Note: There is a collection in Postman called "MyNotes (Java) - local" where you can also test the APIs.
+
+HTTP GET - all records
+curl -i -X GET http://localhost:1972/mynotes/clients -H “Content-Type application/json”
+curl -i -X GET http://localhost:1972/mynotes/projects -H “Content-Type application/json”
+curl -i -X GET http://localhost:1972/mynotes/notetypes -H “Content-Type application/json”
+curl -i -X GET http://localhost:1972/mynotes/notes -H “Content-Type application/json”
+
+HTTP GET - single record using ID
+curl -i -X GET http://localhost:1972/mynotes/clients/1 -H "Content-Type application/json"
+curl -i -X GET http://localhost:1972/mynotes/projects/1 -H "Content-Type application/json"
+curl -i -X GET http://localhost:1972/mynotes/notetypes/1 -H "Content-Type application/json"
+curl -i -X GET http://localhost:1972/mynotes/notes/1 -H "Content-Type application/json"
+
+HTTP POST 
+curl -X POST -H "Content-Type: text/plain" --data "NYC Health+Hospitals Corp" http://localhost:1972/mynotes/clients 
+curl -X POST -H "Content-Type: text/plain" --data "Iris Mobile Monitor" http://localhost:1972/mynotes/projects 
+curl -X POST -H "Content-Type: text/plain" --data "Status Update" http://localhost:1972/mynotes/notetypes 
+NOTE: when posting JSON in curl, on Windows, you need to escape the double quotes like this:
+curl -d "{\"noteText\":\"another note posted from curl\",\"noteDate\":\"2022-07-14 12:50:00\",\"timeZone\":\"America/New_York\",\"iscomplete\":true,\"client_id\":1,\"notetype_id\":1,\"project_id\":1}" -H "Content-Type: application/json" -X POST http://localhost:1972/mynotes/notes -i
+NOTE: in Postman you can simply put the JSON object in the body of the request like this:
+{"noteText":"note posted from postman","noteDate":"2022-07-14 12:48:00","timeZone":"America/New_York","iscomplete":true,"client_id":1,"notetype_id":1,"project_id":1}
+
+HTTP PUT 
+curl -X PUT -H "Content-Type: text/plain" --data "Christopher Pound" http://localhost:1972/mynotes/clients/1 
+curl -X PUT -H "Content-Type: text/plain" --data "Medical" http://localhost:1972/mynotes/projects/1 
+curl -X PUT -H "Content-Type: text/plain" --data "Appointment" http://localhost:1972/mynotes/notetypes/1 
+curl -d "{\"noteText\":\"note updated from curl\",\"noteDate\":\"2022-07-14 12:46:00\",\"timeZone\":\"America/New_York\",\"iscomplete\":true,\"client_id\":1,\"notetype_id\":1,\"project_id\":1}" -H "Content-Type: application/json" -X PUT http://localhost:1972/mynotes/notes/1 -i
+
+HTTP DELETE
+curl -i -X DELETE http://localhost:1972/mynotes/clients/2 -H “Content-Type application/json”
+curl -i -X DELETE http://localhost:1972/mynotes/projects/2 -H “Content-Type application/json”
+curl -i -X DELETE http://localhost:1972/mynotes/notetypes/2 -H “Content-Type application/json”
+curl -i -X DELETE http://localhost:1972/mynotes/notes/2 -H “Content-Type application/json”
+
+
+

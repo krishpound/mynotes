@@ -1,0 +1,36 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-10-25T15:00:17.028-04:00  INFO 836 --- [           main] c.m.lexi.mynotes.MynotesApplication      : Starting MynotesApplication v0.0.1-SNAPSHOT using Java 21.0.1 with PID 836 (C:\home\vscode\java\mynotes\mynotes.jar started by CO-705-X033-L06$ in C:\home\vscode\java\mynotes)
+2023-10-25T15:00:17.032-04:00  INFO 836 --- [           main] c.m.lexi.mynotes.MynotesApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-10-25T15:00:32.453-04:00  INFO 836 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-10-25T15:00:33.070-04:00  INFO 836 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 435 ms. Found 5 JPA repository interfaces.
+2023-10-25T15:00:58.088-04:00  INFO 836 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7443 (https)
+2023-10-25T15:00:58.621-04:00  INFO 836 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-25T15:00:58.623-04:00  INFO 836 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-10-25T15:01:21.779-04:00  INFO 836 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-10-25T15:01:42.865-04:00  INFO 836 --- [           main] o.a.c.c.C.[.[localhost].[/mynotes]       : Initializing Spring embedded WebApplicationContext
+2023-10-25T15:01:42.877-04:00  INFO 836 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 84993 ms
+2023-10-25T15:01:52.414-04:00  INFO 836 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-25T15:01:53.922-04:00  INFO 836 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.6.Final
+2023-10-25T15:01:53.938-04:00  INFO 836 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2023-10-25T15:01:55.352-04:00  INFO 836 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2023-10-25T15:02:02.902-04:00  INFO 836 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-10-25T15:02:03.073-04:00  INFO 836 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-10-25T15:02:13.320-04:00  INFO 836 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@543e593
+2023-10-25T15:02:13.327-04:00  INFO 836 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-10-25T15:02:15.611-04:00  INFO 836 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2023-10-25T15:02:24.150-04:00  INFO 836 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-25T15:02:24.167-04:00  INFO 836 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-10-25T15:02:29.166-04:00  WARN 836 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-10-25T15:02:30.101-04:00  INFO 836 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-10-25T15:02:32.533-04:00  INFO 836 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-10-25T15:02:34.037-04:00  INFO 836 --- [           main] o.a.t.util.net.NioEndpoint.certificate   : Connector [https-jsse-nio-7443], TLS virtual host [_default_], certificate type [UNDEFINED] configured from keystore [C:\WINDOWS\system32\config\systemprofile;.keystore] using alias [tomcat] with trust store [null]
+2023-10-25T15:02:34.479-04:00  INFO 836 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7443 (https) with context path '/mynotes'
+2023-10-25T15:02:34.538-04:00  INFO 836 --- [           main] c.m.lexi.mynotes.MynotesApplication      : Started MynotesApplication in 140.735 seconds (process running for 150.618)

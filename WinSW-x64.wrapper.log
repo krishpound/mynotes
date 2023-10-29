@@ -1,0 +1,943 @@
+2022-09-16T08:54:54.286 INFO  console - Installing service 'mynotes (mynotes)'...
+2022-09-16T08:54:54.392 INFO  console - Service 'mynotes (mynotes)' was installed successfully.
+2022-09-16T08:56:12.320 DEBUG console - Starting WinSW in service mode.
+2022-09-16T08:56:12.393 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-16T08:56:12.410 INFO  service - Starting java
+2022-09-16T08:56:12.743 INFO  service - Started process java (27168).
+2022-09-16T08:56:12.781 INFO  service - Service started successfully.
+2022-09-17T10:47:29.916 INFO  service - Stopping mynotes
+2022-09-17T10:47:29.925 DEBUG service - ProcessKill 27168
+2022-09-17T10:47:30.039 INFO  service - Child process 'java (27168)' canceled with code -1073741510.
+2022-09-17T10:47:30.240 INFO  service - Finished mynotes
+2022-09-17T10:47:30.242 INFO  service - Service stopped successfully.
+2022-09-17T10:47:35.910 DEBUG console - Starting WinSW in service mode.
+2022-09-17T10:47:35.991 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-17T10:47:36.006 INFO  service - Starting java
+2022-09-17T10:47:36.338 INFO  service - Started process java (28772).
+2022-09-17T10:47:36.381 INFO  service - Service started successfully.
+2022-09-17T18:45:12.813 INFO  service - Stopping mynotes
+2022-09-17T18:45:12.960 DEBUG service - ProcessKill 28772
+2022-09-17T18:45:16.261 INFO  service - Child process 'java (28772)' canceled with code -1073741510.
+2022-09-17T18:45:16.377 INFO  service - Finished mynotes
+2022-09-17T18:45:16.379 INFO  service - Service was shut down successfully.
+2022-09-17T18:46:20.634 DEBUG console - Starting WinSW in service mode.
+2022-09-17T18:46:21.797 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-17T18:46:22.482 INFO  service - Starting java
+2022-09-17T18:46:23.228 INFO  service - Started process java (12000).
+2022-09-17T18:46:23.455 INFO  service - Service started successfully.
+2022-09-17T19:28:37.333 INFO  service - Stopping mynotes
+2022-09-17T19:28:37.356 DEBUG service - ProcessKill 12000
+2022-09-17T19:28:38.032 INFO  service - Child process 'java (12000)' canceled with code -1073741510.
+2022-09-17T19:28:38.210 INFO  service - Finished mynotes
+2022-09-17T19:28:38.214 INFO  service - Service was shut down successfully.
+2022-09-17T19:31:39.432 DEBUG console - Starting WinSW in service mode.
+2022-09-17T19:31:41.154 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-17T19:31:42.927 INFO  service - Starting java
+2022-09-17T19:31:43.808 INFO  service - Started process java (12220).
+2022-09-17T19:31:43.981 INFO  service - Service started successfully.
+2022-09-19T10:20:34.727 INFO  service - Stopping mynotes
+2022-09-19T10:20:35.218 DEBUG service - ProcessKill 12220
+2022-09-19T10:20:37.169 INFO  service - Child process 'java (12220)' canceled with code -1073741510.
+2022-09-19T10:20:38.097 INFO  service - Finished mynotes
+2022-09-19T10:20:38.099 INFO  service - Service was shut down successfully.
+2022-09-19T15:43:18.866 DEBUG console - Starting WinSW in service mode.
+2022-09-19T15:43:20.877 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-19T15:43:23.026 INFO  service - Starting java
+2022-09-19T15:43:23.503 INFO  service - Started process java (12976).
+2022-09-19T15:43:23.660 INFO  service - Service started successfully.
+2022-09-20T08:48:46.328 INFO  service - Stopping mynotes
+2022-09-20T08:48:46.335 DEBUG service - ProcessKill 12976
+2022-09-20T08:48:46.568 INFO  service - Child process 'java (12976)' canceled with code -1073741510.
+2022-09-20T08:48:46.782 INFO  service - Finished mynotes
+2022-09-20T08:48:46.784 INFO  service - Service stopped successfully.
+2022-09-20T12:23:32.250 DEBUG console - Starting WinSW in service mode.
+2022-09-20T12:23:32.341 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-20T12:23:32.358 INFO  service - Starting java
+2022-09-20T12:23:32.548 INFO  service - Started process java (15280).
+2022-09-20T12:23:32.610 INFO  service - Service started successfully.
+2022-09-20T16:06:35.043 INFO  service - Stopping mynotes
+2022-09-20T16:06:35.051 DEBUG service - ProcessKill 15280
+2022-09-20T16:06:35.158 INFO  service - Child process 'java (15280)' canceled with code -1073741510.
+2022-09-20T16:06:35.340 INFO  service - Finished mynotes
+2022-09-20T16:06:35.342 INFO  service - Service stopped successfully.
+2022-09-20T16:06:41.095 DEBUG console - Starting WinSW in service mode.
+2022-09-20T16:06:41.176 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-20T16:06:41.195 INFO  service - Starting java
+2022-09-20T16:06:41.539 INFO  service - Started process java (28664).
+2022-09-20T16:06:41.583 INFO  service - Service started successfully.
+2022-09-25T22:02:27.494 INFO  service - Stopping mynotes
+2022-09-25T22:02:27.545 DEBUG service - ProcessKill 28664
+2022-09-25T22:02:31.496 INFO  service - Child process 'java (28664)' canceled with code -1073741510.
+2022-09-25T22:02:31.591 INFO  service - Finished mynotes
+2022-09-25T22:02:31.594 INFO  service - Service was shut down successfully.
+2022-09-25T22:03:27.855 DEBUG console - Starting WinSW in service mode.
+2022-09-25T22:03:32.394 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-25T22:03:34.236 INFO  service - Starting java
+2022-09-25T22:03:35.946 INFO  service - Started process java (12860).
+2022-09-25T22:03:36.194 INFO  service - Service started successfully.
+2022-09-27T21:09:08.356 INFO  service - Stopping mynotes
+2022-09-27T21:09:08.800 DEBUG service - ProcessKill 12860
+2022-09-27T21:09:12.031 INFO  service - Child process 'java (12860)' canceled with code -1073741510.
+2022-09-27T21:09:12.190 INFO  service - Finished mynotes
+2022-09-27T21:09:12.192 INFO  service - Service was shut down successfully.
+2022-09-27T21:09:59.148 DEBUG console - Starting WinSW in service mode.
+2022-09-27T21:10:02.470 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-27T21:10:04.087 INFO  service - Starting java
+2022-09-27T21:10:05.117 INFO  service - Started process java (12296).
+2022-09-27T21:10:05.338 INFO  service - Service started successfully.
+2022-09-30T07:07:03.398 INFO  service - Stopping mynotes
+2022-09-30T07:07:03.561 DEBUG service - ProcessKill 12296
+2022-09-30T07:07:07.050 INFO  service - Child process 'java (12296)' canceled with code -1073741510.
+2022-09-30T07:07:07.278 INFO  service - Finished mynotes
+2022-09-30T07:07:07.294 INFO  service - Service was shut down successfully.
+2022-09-30T07:08:18.859 DEBUG console - Starting WinSW in service mode.
+2022-09-30T07:08:21.296 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-09-30T07:08:23.406 INFO  service - Starting java
+2022-09-30T07:08:23.844 INFO  service - Started process java (13088).
+2022-09-30T07:08:23.978 INFO  service - Service started successfully.
+2022-10-01T21:08:06.161 INFO  service - Stopping mynotes
+2022-10-01T21:08:06.590 DEBUG service - ProcessKill 13088
+2022-10-01T21:08:08.180 INFO  service - Child process 'java (13088)' canceled with code -1073741510.
+2022-10-01T21:08:08.501 INFO  service - Finished mynotes
+2022-10-01T21:08:08.505 INFO  service - Service was shut down successfully.
+2022-10-01T21:09:00.885 DEBUG console - Starting WinSW in service mode.
+2022-10-01T21:09:01.472 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-10-01T21:09:01.981 INFO  service - Starting java
+2022-10-01T21:09:02.573 INFO  service - Started process java (11832).
+2022-10-01T21:09:02.695 INFO  service - Service started successfully.
+2022-10-09T08:11:48.804 INFO  service - Stopping mynotes
+2022-10-09T08:11:48.825 DEBUG service - ProcessKill 11832
+2022-10-09T08:11:54.528 INFO  service - Child process 'java (11832)' canceled with code -1073741510.
+2022-10-09T08:11:54.781 INFO  service - Finished mynotes
+2022-10-09T08:11:54.784 INFO  service - Service was shut down successfully.
+2022-10-09T08:20:50.796 DEBUG console - Starting WinSW in service mode.
+2022-10-09T08:20:54.500 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-10-09T08:20:57.578 INFO  service - Starting java
+2022-10-09T08:20:58.324 INFO  service - Started process java (12904).
+2022-10-09T08:20:58.524 INFO  service - Service started successfully.
+2022-10-30T07:31:33.487 INFO  service - Stopping mynotes
+2022-10-30T07:31:33.719 DEBUG service - ProcessKill 12904
+2022-10-30T07:31:38.886 INFO  service - Child process 'java (12904)' canceled with code -1073741510.
+2022-10-30T07:31:39.327 INFO  service - Finished mynotes
+2022-10-30T07:31:39.332 INFO  service - Service was shut down successfully.
+2022-10-30T07:32:57.262 DEBUG console - Starting WinSW in service mode.
+2022-10-30T07:32:59.557 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-10-30T07:33:00.254 INFO  service - Starting java
+2022-10-30T07:33:00.943 INFO  service - Started process java (11656).
+2022-10-30T07:33:01.145 INFO  service - Service started successfully.
+2022-10-31T06:02:39.999 INFO  service - Stopping mynotes
+2022-10-31T06:02:40.016 DEBUG service - ProcessKill 11656
+2022-10-31T06:02:40.450 INFO  service - Child process 'java (11656)' canceled with code -1073741510.
+2022-10-31T06:02:40.706 INFO  service - Finished mynotes
+2022-10-31T06:02:40.709 INFO  service - Service was shut down successfully.
+2022-10-31T13:03:48.245 DEBUG console - Starting WinSW in service mode.
+2022-10-31T13:03:50.688 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-10-31T13:03:51.630 INFO  service - Starting java
+2022-10-31T13:03:52.771 INFO  service - Started process java (12952).
+2022-10-31T13:03:53.055 INFO  service - Service started successfully.
+2022-11-06T05:26:55.516 INFO  service - Stopping mynotes
+2022-11-06T05:26:55.780 DEBUG service - ProcessKill 12952
+2022-11-06T05:27:01.876 INFO  service - Child process 'java (12952)' canceled with code -1073741510.
+2022-11-06T05:27:02.311 INFO  service - Finished mynotes
+2022-11-06T05:27:02.313 INFO  service - Service was shut down successfully.
+2022-11-06T11:34:58.526 DEBUG console - Starting WinSW in service mode.
+2022-11-06T11:34:59.036 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-06T11:35:00.505 INFO  service - Starting java
+2022-11-06T11:35:01.618 INFO  service - Started process java (11304).
+2022-11-06T11:35:01.963 INFO  service - Service started successfully.
+2022-11-06T13:56:59.900 INFO  service - Stopping mynotes
+2022-11-06T13:57:00.344 DEBUG service - ProcessKill 11304
+2022-11-06T13:57:02.570 INFO  service - Child process 'java (11304)' canceled with code -1073741510.
+2022-11-06T13:57:02.631 INFO  service - Finished mynotes
+2022-11-06T13:57:02.633 INFO  service - Service was shut down successfully.
+2022-11-06T14:00:24.602 DEBUG console - Starting WinSW in service mode.
+2022-11-06T14:00:27.797 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-06T14:00:29.341 INFO  service - Starting java
+2022-11-06T14:00:31.900 INFO  service - Started process java (13108).
+2022-11-06T14:00:32.311 INFO  service - Service started successfully.
+2022-11-16T06:37:59.707 INFO  service - Stopping mynotes
+2022-11-16T06:37:59.772 DEBUG service - ProcessKill 13108
+2022-11-16T06:38:04.099 INFO  service - Child process 'java (13108)' canceled with code -1073741510.
+2022-11-16T06:38:08.860 INFO  service - Finished mynotes
+2022-11-16T06:38:08.865 INFO  service - Service was shut down successfully.
+2022-11-16T06:39:14.844 DEBUG console - Starting WinSW in service mode.
+2022-11-16T06:39:18.074 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-16T06:39:19.534 INFO  service - Starting java
+2022-11-16T06:39:20.226 INFO  service - Started process java (12500).
+2022-11-16T06:39:20.367 INFO  service - Service started successfully.
+2022-11-19T21:07:29.327 INFO  service - Stopping mynotes
+2022-11-19T21:07:29.685 DEBUG service - ProcessKill 12500
+2022-11-19T21:07:33.926 INFO  service - Child process 'java (12500)' canceled with code -1073741510.
+2022-11-19T21:07:34.054 INFO  service - Finished mynotes
+2022-11-19T21:07:34.057 INFO  service - Service was shut down successfully.
+2022-11-19T21:08:24.936 DEBUG console - Starting WinSW in service mode.
+2022-11-19T21:08:26.691 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-19T21:08:27.958 INFO  service - Starting java
+2022-11-19T21:08:31.362 INFO  service - Started process java (12304).
+2022-11-19T21:08:31.691 INFO  service - Service started successfully.
+2022-11-19T21:56:29.192 INFO  service - Stopping mynotes
+2022-11-19T21:56:29.438 DEBUG service - ProcessKill 12304
+2022-11-19T21:56:32.344 INFO  service - Child process 'java (12304)' canceled with code -1073741510.
+2022-11-19T21:56:32.985 INFO  service - Finished mynotes
+2022-11-19T21:56:32.987 INFO  service - Service was shut down successfully.
+2022-11-19T21:57:20.995 DEBUG console - Starting WinSW in service mode.
+2022-11-19T21:57:24.183 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-19T21:57:28.182 INFO  service - Starting java
+2022-11-19T21:57:29.317 INFO  service - Started process java (12452).
+2022-11-19T21:57:29.509 INFO  service - Service started successfully.
+2022-11-29T17:22:56.072 INFO  service - Stopping mynotes
+2022-11-29T17:22:56.583 DEBUG service - ProcessKill 12452
+2022-11-29T17:23:02.526 INFO  service - Child process 'java (12452)' canceled with code -1073741510.
+2022-11-29T17:23:02.694 INFO  service - Finished mynotes
+2022-11-29T17:23:02.698 INFO  service - Service was shut down successfully.
+2022-11-29T17:24:17.369 DEBUG console - Starting WinSW in service mode.
+2022-11-29T17:24:17.919 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-29T17:24:18.277 INFO  service - Starting java
+2022-11-29T17:24:19.235 INFO  service - Started process java (12084).
+2022-11-29T17:24:19.429 INFO  service - Service started successfully.
+2022-11-30T07:26:39.004 INFO  service - Stopping mynotes
+2022-11-30T07:26:39.237 DEBUG service - ProcessKill 12084
+2022-11-30T07:26:42.326 INFO  service - Child process 'java (12084)' canceled with code -1073741510.
+2022-11-30T07:26:42.490 INFO  service - Finished mynotes
+2022-11-30T07:26:42.492 INFO  service - Service was shut down successfully.
+2022-11-30T08:11:25.191 DEBUG console - Starting WinSW in service mode.
+2022-11-30T08:11:28.131 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-11-30T08:11:29.938 INFO  service - Starting java
+2022-11-30T08:11:30.421 INFO  service - Started process java (13128).
+2022-11-30T08:11:30.559 INFO  service - Service started successfully.
+2022-12-02T09:32:22.891 INFO  service - Stopping mynotes
+2022-12-02T09:32:22.948 DEBUG service - ProcessKill 13128
+2022-12-02T09:32:25.050 INFO  service - Child process 'java (13128)' canceled with code -1073741510.
+2022-12-02T09:32:25.526 INFO  service - Finished mynotes
+2022-12-02T09:32:25.538 INFO  service - Service was shut down successfully.
+2022-12-02T09:33:34.276 DEBUG console - Starting WinSW in service mode.
+2022-12-02T09:33:36.745 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-02T09:33:37.769 INFO  service - Starting java
+2022-12-02T09:33:39.212 INFO  service - Started process java (12536).
+2022-12-02T09:33:39.407 INFO  service - Service started successfully.
+2022-12-02T11:37:27.420 INFO  service - Stopping mynotes
+2022-12-02T11:37:27.989 DEBUG service - ProcessKill 12536
+2022-12-02T11:37:28.754 INFO  service - Child process 'java (12536)' canceled with code -1073741510.
+2022-12-02T11:37:31.001 INFO  service - Finished mynotes
+2022-12-02T11:37:31.003 INFO  service - Service was shut down successfully.
+2022-12-02T11:38:38.427 DEBUG console - Starting WinSW in service mode.
+2022-12-02T11:38:40.135 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-02T11:38:41.070 INFO  service - Starting java
+2022-12-02T11:38:41.822 INFO  service - Started process java (12356).
+2022-12-02T11:38:41.998 INFO  service - Service started successfully.
+2022-12-08T08:36:22.831 INFO  service - Stopping mynotes
+2022-12-08T08:36:23.178 DEBUG service - ProcessKill 12356
+2022-12-08T08:36:31.144 INFO  service - Child process 'java (12356)' canceled with code -1073741510.
+2022-12-08T08:36:31.857 INFO  service - Finished mynotes
+2022-12-08T08:36:31.860 INFO  service - Service was shut down successfully.
+2022-12-08T08:37:58.217 DEBUG console - Starting WinSW in service mode.
+2022-12-08T08:38:00.760 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-08T08:38:02.273 INFO  service - Starting java
+2022-12-08T08:38:03.409 INFO  service - Started process java (12680).
+2022-12-08T08:38:03.749 INFO  service - Service started successfully.
+2022-12-12T15:59:44.289 INFO  service - Stopping mynotes
+2022-12-12T15:59:46.300 DEBUG service - ProcessKill 12680
+2022-12-12T15:59:54.274 INFO  service - Child process 'java (12680)' canceled with code -1073741510.
+2022-12-12T15:59:55.332 INFO  service - Finished mynotes
+2022-12-12T15:59:55.335 INFO  service - Service was shut down successfully.
+2022-12-12T16:01:00.555 DEBUG console - Starting WinSW in service mode.
+2022-12-12T16:01:01.528 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-12T16:01:01.918 INFO  service - Starting java
+2022-12-12T16:01:03.010 INFO  service - Started process java (11180).
+2022-12-12T16:01:03.210 INFO  service - Service started successfully.
+2022-12-14T13:10:14.086 INFO  service - Stopping mynotes
+2022-12-14T13:10:14.357 DEBUG service - ProcessKill 11180
+2022-12-14T13:10:19.086 INFO  service - Child process 'java (11180)' canceled with code -1073741510.
+2022-12-14T13:10:20.960 INFO  service - Finished mynotes
+2022-12-14T13:10:20.964 INFO  service - Service was shut down successfully.
+2022-12-14T13:11:53.583 DEBUG console - Starting WinSW in service mode.
+2022-12-14T13:11:56.772 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-14T13:11:58.858 INFO  service - Starting java
+2022-12-14T13:12:00.641 INFO  service - Started process java (12692).
+2022-12-14T13:12:00.996 INFO  service - Service started successfully.
+2022-12-22T12:16:22.654 INFO  service - Stopping mynotes
+2022-12-22T12:16:23.238 DEBUG service - ProcessKill 12692
+2022-12-22T12:16:25.877 INFO  service - Child process 'java (12692)' canceled with code -1073741510.
+2022-12-22T12:16:26.936 INFO  service - Finished mynotes
+2022-12-22T12:16:26.940 INFO  service - Service was shut down successfully.
+2022-12-23T06:50:47.219 DEBUG console - Starting WinSW in service mode.
+2022-12-23T06:50:49.340 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-23T06:50:51.418 INFO  service - Starting java
+2022-12-23T06:50:52.165 INFO  service - Started process java (12916).
+2022-12-23T06:50:52.258 INFO  service - Service started successfully.
+2022-12-24T15:00:38.580 INFO  service - Stopping mynotes
+2022-12-24T15:00:39.251 DEBUG service - ProcessKill 12916
+2022-12-24T15:00:42.675 INFO  service - Child process 'java (12916)' canceled with code -1073741510.
+2022-12-24T15:00:42.868 INFO  service - Finished mynotes
+2022-12-24T15:00:42.871 INFO  service - Service was shut down successfully.
+2022-12-26T09:12:17.043 DEBUG console - Starting WinSW in service mode.
+2022-12-26T09:12:19.539 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-26T09:12:20.068 INFO  service - Starting java
+2022-12-26T09:12:21.763 INFO  service - Started process java (13184).
+2022-12-26T09:12:21.985 INFO  service - Service started successfully.
+2022-12-28T07:52:28.647 INFO  service - Stopping mynotes
+2022-12-28T07:52:29.637 DEBUG service - ProcessKill 13184
+2022-12-28T07:52:31.928 INFO  service - Child process 'java (13184)' canceled with code -1073741510.
+2022-12-28T07:52:32.017 INFO  service - Finished mynotes
+2022-12-28T07:52:32.019 INFO  service - Service was shut down successfully.
+2022-12-28T14:34:56.235 DEBUG console - Starting WinSW in service mode.
+2022-12-28T14:34:56.739 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2022-12-28T14:34:56.989 INFO  service - Starting java
+2022-12-28T14:34:57.563 INFO  service - Started process java (12148).
+2022-12-28T14:34:57.722 INFO  service - Service started successfully.
+2023-01-01T06:29:43.991 INFO  service - Stopping mynotes
+2023-01-01T06:29:44.018 DEBUG service - ProcessKill 12148
+2023-01-01T06:29:47.725 INFO  service - Child process 'java (12148)' canceled with code -1073741510.
+2023-01-01T06:29:47.830 INFO  service - Finished mynotes
+2023-01-01T06:29:47.832 INFO  service - Service was shut down successfully.
+2023-01-01T12:28:17.177 DEBUG console - Starting WinSW in service mode.
+2023-01-01T12:28:19.291 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-01-01T12:28:21.137 INFO  service - Starting java
+2023-01-01T12:28:21.805 INFO  service - Started process java (12708).
+2023-01-01T12:28:21.989 INFO  service - Service started successfully.
+2023-01-06T06:26:45.145 INFO  service - Stopping mynotes
+2023-01-06T06:26:45.238 DEBUG service - ProcessKill 12708
+2023-01-06T06:26:50.857 INFO  service - Child process 'java (12708)' canceled with code -1073741510.
+2023-01-06T06:26:51.091 INFO  service - Finished mynotes
+2023-01-06T06:26:51.094 INFO  service - Service was shut down successfully.
+2023-01-06T12:22:01.301 DEBUG console - Starting WinSW in service mode.
+2023-01-06T12:22:02.703 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-01-06T12:22:03.514 INFO  service - Starting java
+2023-01-06T12:22:04.269 INFO  service - Started process java (12252).
+2023-01-06T12:22:04.440 INFO  service - Service started successfully.
+2023-01-18T10:13:29.756 INFO  service - Stopping mynotes
+2023-01-18T10:13:30.330 DEBUG service - ProcessKill 12252
+2023-01-18T10:13:32.209 INFO  service - Child process 'java (12252)' canceled with code -1073741510.
+2023-01-18T10:13:33.773 INFO  service - Finished mynotes
+2023-01-18T10:13:33.779 INFO  service - Service was shut down successfully.
+2023-01-18T10:15:02.240 DEBUG console - Starting WinSW in service mode.
+2023-01-18T10:15:03.863 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-01-18T10:15:05.093 INFO  service - Starting java
+2023-01-18T10:15:06.482 INFO  service - Started process java (6432).
+2023-01-18T10:15:06.601 INFO  service - Service started successfully.
+2023-01-22T22:01:29.362 INFO  service - Stopping mynotes
+2023-01-22T22:01:29.733 DEBUG service - ProcessKill 6432
+2023-01-22T22:01:34.032 INFO  service - Child process 'java (6432)' canceled with code -1073741510.
+2023-01-22T22:01:34.185 INFO  service - Finished mynotes
+2023-01-22T22:01:34.188 INFO  service - Service was shut down successfully.
+2023-01-22T22:02:27.435 DEBUG console - Starting WinSW in service mode.
+2023-01-22T22:02:31.257 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-01-22T22:02:34.073 INFO  service - Starting java
+2023-01-22T22:02:35.439 INFO  service - Started process java (12528).
+2023-01-22T22:02:35.614 INFO  service - Service started successfully.
+2023-02-15T07:19:57.295 INFO  service - Stopping mynotes
+2023-02-15T07:19:57.531 DEBUG service - ProcessKill 12528
+2023-02-15T07:20:06.774 INFO  service - Child process 'java (12528)' canceled with code -1073741510.
+2023-02-15T07:20:08.851 INFO  service - Finished mynotes
+2023-02-15T07:20:08.853 INFO  service - Service was shut down successfully.
+2023-02-15T07:23:23.119 DEBUG console - Starting WinSW in service mode.
+2023-02-15T07:23:24.277 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-02-15T07:23:24.957 INFO  service - Starting java
+2023-02-15T07:23:25.731 INFO  service - Started process java (9316).
+2023-02-15T07:23:25.818 INFO  service - Service started successfully.
+2023-02-16T17:47:38.803 INFO  service - Stopping mynotes
+2023-02-16T17:47:38.863 DEBUG service - ProcessKill 9316
+2023-02-16T17:47:41.902 INFO  service - Child process 'java (9316)' canceled with code -1073741510.
+2023-02-16T17:47:44.816 INFO  service - Finished mynotes
+2023-02-16T17:47:44.819 INFO  service - Service was shut down successfully.
+2023-02-16T17:48:50.705 DEBUG console - Starting WinSW in service mode.
+2023-02-16T17:48:52.598 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-02-16T17:48:53.999 INFO  service - Starting java
+2023-02-16T17:48:54.599 INFO  service - Started process java (12532).
+2023-02-16T17:48:54.922 INFO  service - Service started successfully.
+2023-02-26T22:02:47.824 INFO  service - Stopping mynotes
+2023-02-26T22:02:48.167 DEBUG service - ProcessKill 12532
+2023-02-26T22:02:48.857 INFO  service - Child process 'java (12532)' canceled with code -1073741510.
+2023-02-26T22:02:49.105 INFO  service - Finished mynotes
+2023-02-26T22:02:49.108 INFO  service - Service was shut down successfully.
+2023-02-26T22:03:52.579 DEBUG console - Starting WinSW in service mode.
+2023-02-26T22:03:54.930 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-02-26T22:03:57.394 INFO  service - Starting java
+2023-02-26T22:03:58.780 INFO  service - Started process java (12168).
+2023-02-26T22:03:59.082 INFO  service - Service started successfully.
+2023-03-02T08:19:28.918 INFO  service - Stopping mynotes
+2023-03-02T08:19:29.324 DEBUG service - ProcessKill 12168
+2023-03-02T08:19:35.711 INFO  service - Child process 'java (12168)' canceled with code -1073741510.
+2023-03-02T08:19:36.478 INFO  service - Finished mynotes
+2023-03-02T08:19:36.481 INFO  service - Service was shut down successfully.
+2023-03-02T15:44:18.809 DEBUG console - Starting WinSW in service mode.
+2023-03-02T15:44:19.535 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-02T15:44:19.814 INFO  service - Starting java
+2023-03-02T15:44:19.993 INFO  service - Started process java (11008).
+2023-03-02T15:44:20.071 INFO  service - Service started successfully.
+2023-03-04T16:21:53.755 INFO  service - Stopping mynotes
+2023-03-04T16:21:54.400 DEBUG service - ProcessKill 11008
+2023-03-04T16:22:00.366 INFO  service - Child process 'java (11008)' canceled with code -1073741510.
+2023-03-04T16:22:01.028 INFO  service - Finished mynotes
+2023-03-04T16:22:01.030 INFO  service - Service was shut down successfully.
+2023-03-04T16:23:08.826 DEBUG console - Starting WinSW in service mode.
+2023-03-04T16:23:09.394 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-04T16:23:09.778 INFO  service - Starting java
+2023-03-04T16:23:10.704 INFO  service - Started process java (12192).
+2023-03-04T16:23:11.053 INFO  service - Service started successfully.
+2023-03-09T05:58:08.287 INFO  service - Stopping mynotes
+2023-03-09T05:58:08.474 DEBUG service - ProcessKill 12192
+2023-03-09T05:58:10.916 INFO  service - Child process 'java (12192)' canceled with code -1073741510.
+2023-03-09T05:58:11.051 INFO  service - Finished mynotes
+2023-03-09T05:58:11.054 INFO  service - Service was shut down successfully.
+2023-03-09T12:23:04.199 DEBUG console - Starting WinSW in service mode.
+2023-03-09T12:23:04.374 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-09T12:23:04.463 INFO  service - Starting java
+2023-03-09T12:23:05.014 INFO  service - Started process java (11076).
+2023-03-09T12:23:05.176 INFO  service - Service started successfully.
+2023-03-23T06:50:54.886 INFO  service - Stopping mynotes
+2023-03-23T06:50:55.128 DEBUG service - ProcessKill 11076
+2023-03-23T06:51:01.045 INFO  service - Child process 'java (11076)' canceled with code -1073741510.
+2023-03-23T06:52:15.619 DEBUG console - Starting WinSW in service mode.
+2023-03-23T06:52:17.285 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-23T06:52:18.443 INFO  service - Starting java
+2023-03-23T06:52:20.000 INFO  service - Started process java (12540).
+2023-03-23T06:52:20.449 INFO  service - Service started successfully.
+2023-03-26T22:01:51.068 INFO  service - Stopping mynotes
+2023-03-26T22:01:51.712 DEBUG service - ProcessKill 12540
+2023-03-26T22:01:55.510 INFO  service - Child process 'java (12540)' canceled with code -1073741510.
+2023-03-26T22:01:55.738 INFO  service - Finished mynotes
+2023-03-26T22:01:55.742 INFO  service - Service was shut down successfully.
+2023-03-26T22:02:46.124 DEBUG console - Starting WinSW in service mode.
+2023-03-26T22:02:50.064 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-26T22:02:52.631 INFO  service - Starting java
+2023-03-26T22:02:53.856 INFO  service - Started process java (13076).
+2023-03-26T22:02:54.420 INFO  service - Service started successfully.
+2023-03-30T09:19:03.047 INFO  service - Stopping mynotes
+2023-03-30T09:19:03.399 DEBUG service - ProcessKill 13076
+2023-03-30T09:19:09.266 INFO  service - Child process 'java (13076)' canceled with code -1073741510.
+2023-03-30T09:19:09.784 INFO  service - Finished mynotes
+2023-03-30T09:19:09.792 INFO  service - Service was shut down successfully.
+2023-03-30T09:22:00.815 DEBUG console - Starting WinSW in service mode.
+2023-03-30T09:22:04.454 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-03-30T09:22:06.311 INFO  service - Starting java
+2023-03-30T09:22:07.557 INFO  service - Started process java (12528).
+2023-03-30T09:22:07.921 INFO  service - Service started successfully.
+2023-04-06T10:09:30.768 INFO  service - Stopping mynotes
+2023-04-06T10:09:30.786 DEBUG service - ProcessKill 12528
+2023-04-06T10:09:37.703 INFO  service - Child process 'java (12528)' canceled with code -1073741510.
+2023-04-06T10:09:40.083 INFO  service - Finished mynotes
+2023-04-06T10:09:40.108 INFO  service - Service was shut down successfully.
+2023-04-06T10:11:13.388 DEBUG console - Starting WinSW in service mode.
+2023-04-06T10:11:16.152 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-06T10:11:16.931 INFO  service - Starting java
+2023-04-06T10:11:19.273 INFO  service - Started process java (12316).
+2023-04-06T10:11:19.454 INFO  service - Service started successfully.
+2023-04-07T12:56:31.916 INFO  service - Stopping mynotes
+2023-04-07T12:56:32.753 DEBUG service - ProcessKill 12316
+2023-04-07T12:56:38.059 INFO  service - Child process 'java (12316)' canceled with code -1073741510.
+2023-04-07T12:56:39.133 INFO  service - Finished mynotes
+2023-04-07T12:56:39.140 INFO  service - Service was shut down successfully.
+2023-04-07T13:35:46.807 DEBUG console - Starting WinSW in service mode.
+2023-04-07T13:35:51.443 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-07T13:35:54.376 INFO  service - Starting java
+2023-04-07T13:35:56.324 INFO  service - Started process java (13292).
+2023-04-07T13:35:56.742 INFO  service - Service started successfully.
+2023-04-11T06:39:09.922 INFO  service - Stopping mynotes
+2023-04-11T06:39:10.220 DEBUG service - ProcessKill 13292
+2023-04-11T06:39:13.127 INFO  service - Child process 'java (13292)' canceled with code -1073741510.
+2023-04-11T06:40:34.645 DEBUG console - Starting WinSW in service mode.
+2023-04-11T06:40:35.776 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-11T06:40:36.261 INFO  service - Starting java
+2023-04-11T06:40:38.049 INFO  service - Started process java (12528).
+2023-04-11T06:40:38.391 INFO  service - Service started successfully.
+2023-04-14T10:45:20.821 INFO  service - Stopping mynotes
+2023-04-14T10:45:20.865 DEBUG service - ProcessKill 12528
+2023-04-14T10:45:29.598 INFO  service - Child process 'java (12528)' canceled with code -1073741510.
+2023-04-14T10:45:29.815 INFO  service - Finished mynotes
+2023-04-14T10:45:30.377 INFO  service - Service was shut down successfully.
+2023-04-14T10:48:00.082 DEBUG console - Starting WinSW in service mode.
+2023-04-14T10:48:01.777 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-14T10:48:05.394 INFO  service - Starting java
+2023-04-14T10:48:07.563 INFO  service - Started process java (12632).
+2023-04-14T10:48:07.935 INFO  service - Service started successfully.
+2023-04-16T22:00:14.037 INFO  service - Stopping mynotes
+2023-04-16T22:00:14.405 DEBUG service - ProcessKill 12632
+2023-04-16T22:00:22.146 INFO  service - Child process 'java (12632)' canceled with code -1073741510.
+2023-04-16T22:00:22.629 INFO  service - Finished mynotes
+2023-04-16T22:00:22.634 INFO  service - Service was shut down successfully.
+2023-04-17T00:51:48.501 DEBUG console - Starting WinSW in service mode.
+2023-04-17T00:51:50.579 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-17T00:51:51.562 INFO  service - Starting java
+2023-04-17T00:51:52.255 INFO  service - Started process java (12420).
+2023-04-17T00:51:52.450 INFO  service - Service started successfully.
+2023-04-21T16:15:51.220 INFO  service - Stopping mynotes
+2023-04-21T16:15:51.612 DEBUG service - ProcessKill 12420
+2023-04-21T16:15:53.381 INFO  service - Child process 'java (12420)' canceled with code -1073741510.
+2023-04-21T16:15:54.065 INFO  service - Finished mynotes
+2023-04-21T16:15:54.071 INFO  service - Service was shut down successfully.
+2023-04-21T17:06:21.012 DEBUG console - Starting WinSW in service mode.
+2023-04-21T17:06:29.256 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-21T17:06:34.394 INFO  service - Starting java
+2023-04-21T17:06:37.952 INFO  service - Started process java (13000).
+2023-04-21T17:06:38.766 INFO  service - Service started successfully.
+2023-04-25T06:36:48.174 INFO  service - Stopping mynotes
+2023-04-25T06:36:48.820 DEBUG service - ProcessKill 13000
+2023-04-25T06:36:51.180 INFO  service - Child process 'java (13000)' canceled with code -1073741510.
+2023-04-25T06:37:46.595 DEBUG console - Starting WinSW in service mode.
+2023-04-25T06:37:47.148 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-04-25T06:37:47.330 INFO  service - Starting java
+2023-04-25T06:37:47.953 INFO  service - Started process java (11736).
+2023-04-25T06:37:48.158 INFO  service - Service started successfully.
+2023-05-03T21:07:30.574 INFO  service - Stopping mynotes
+2023-05-03T21:07:31.179 DEBUG service - ProcessKill 11736
+2023-05-03T21:07:32.892 INFO  service - Child process 'java (11736)' canceled with code -1073741510.
+2023-05-03T21:08:36.572 DEBUG console - Starting WinSW in service mode.
+2023-05-03T21:08:38.721 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-03T21:08:39.580 INFO  service - Starting java
+2023-05-03T21:08:41.412 INFO  service - Started process java (12804).
+2023-05-03T21:08:41.606 INFO  service - Service started successfully.
+2023-05-05T08:57:40.442 INFO  service - Stopping mynotes
+2023-05-05T08:57:41.060 DEBUG service - ProcessKill 12804
+2023-05-05T08:57:43.644 INFO  service - Child process 'java (12804)' canceled with code -1073741510.
+2023-05-05T08:57:46.775 INFO  service - Finished mynotes
+2023-05-05T08:57:46.782 INFO  service - Service was shut down successfully.
+2023-05-05T16:24:09.827 DEBUG console - Starting WinSW in service mode.
+2023-05-05T16:24:12.269 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-05T16:24:14.927 INFO  service - Starting java
+2023-05-05T16:24:16.018 INFO  service - Started process java (12788).
+2023-05-05T16:24:16.466 INFO  service - Service started successfully.
+2023-05-08T20:02:03.346 INFO  service - Stopping mynotes
+2023-05-08T20:02:03.466 DEBUG service - ProcessKill 12788
+2023-05-08T20:02:10.681 INFO  service - Child process 'java (12788)' canceled with code -1073741510.
+2023-05-08T20:02:57.119 DEBUG console - Starting WinSW in service mode.
+2023-05-08T20:03:01.646 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-08T20:03:04.037 INFO  service - Starting java
+2023-05-08T20:03:05.095 INFO  service - Started process java (12348).
+2023-05-08T20:03:05.327 INFO  service - Service started successfully.
+2023-05-19T12:47:24.629 INFO  service - Stopping mynotes
+2023-05-19T12:47:24.874 DEBUG service - ProcessKill 12348
+2023-05-19T12:47:34.193 INFO  service - Child process 'java (12348)' canceled with code -1073741510.
+2023-05-19T12:47:36.134 INFO  service - Finished mynotes
+2023-05-19T12:47:36.141 INFO  service - Service was shut down successfully.
+2023-05-19T12:48:48.738 DEBUG console - Starting WinSW in service mode.
+2023-05-19T12:48:50.043 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-19T12:48:50.677 INFO  service - Starting java
+2023-05-19T12:48:51.319 INFO  service - Started process java (12520).
+2023-05-19T12:48:51.634 INFO  service - Service started successfully.
+2023-05-21T01:04:58.596 INFO  service - Stopping mynotes
+2023-05-21T01:04:58.960 DEBUG service - ProcessKill 12520
+2023-05-21T01:05:04.053 INFO  service - Child process 'java (12520)' canceled with code -1073741510.
+2023-05-21T01:05:05.100 INFO  service - Finished mynotes
+2023-05-21T01:05:05.107 INFO  service - Service was shut down successfully.
+2023-05-21T01:05:57.266 DEBUG console - Starting WinSW in service mode.
+2023-05-21T01:06:00.764 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-21T01:06:02.640 INFO  service - Starting java
+2023-05-21T01:06:05.064 INFO  service - Started process java (13476).
+2023-05-21T01:06:05.453 INFO  service - Service started successfully.
+2023-05-21T07:29:55.685 INFO  service - Stopping mynotes
+2023-05-21T07:29:55.961 DEBUG service - ProcessKill 13476
+2023-05-21T07:30:01.686 INFO  service - Child process 'java (13476)' canceled with code -1073741510.
+2023-05-21T07:31:16.456 DEBUG console - Starting WinSW in service mode.
+2023-05-21T07:31:19.828 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-21T07:31:22.420 INFO  service - Starting java
+2023-05-21T07:31:23.172 INFO  service - Started process java (13440).
+2023-05-21T07:31:23.447 INFO  service - Service started successfully.
+2023-05-25T14:01:09.015 INFO  service - Stopping mynotes
+2023-05-25T14:01:10.060 DEBUG service - ProcessKill 13440
+2023-05-25T14:01:12.325 INFO  service - Child process 'java (13440)' canceled with code -1073741510.
+2023-05-25T14:03:22.404 DEBUG console - Starting WinSW in service mode.
+2023-05-25T14:03:23.494 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-05-25T14:03:24.585 INFO  service - Starting java
+2023-05-25T14:03:26.139 INFO  service - Started process java (12664).
+2023-05-25T14:03:26.396 INFO  service - Service started successfully.
+2023-06-09T11:56:50.307 INFO  service - Stopping mynotes
+2023-06-09T11:56:51.947 DEBUG service - ProcessKill 12664
+2023-06-09T11:56:58.904 INFO  service - Child process 'java (12664)' canceled with code -1073741510.
+2023-06-09T11:56:59.210 INFO  service - Finished mynotes
+2023-06-09T11:56:59.215 INFO  service - Service was shut down successfully.
+2023-06-09T13:13:08.399 DEBUG console - Starting WinSW in service mode.
+2023-06-09T13:13:12.815 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-09T13:13:16.805 INFO  service - Starting java
+2023-06-09T13:13:24.010 INFO  service - Started process java (13284).
+2023-06-09T13:13:26.343 INFO  service - Service started successfully.
+2023-06-16T18:40:53.480 DEBUG console - Starting WinSW in service mode.
+2023-06-16T18:40:56.650 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-16T18:40:59.169 INFO  service - Starting java
+2023-06-16T18:41:00.096 INFO  service - Started process java (12300).
+2023-06-16T18:41:00.210 INFO  service - Service started successfully.
+2023-06-16T18:42:03.109 WARN  service - Child process 'java (12300)' finished with code 1.
+2023-06-16T18:55:27.387 DEBUG console - Starting WinSW in service mode.
+2023-06-16T18:55:30.974 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-16T18:55:33.783 INFO  service - Starting java
+2023-06-16T18:55:34.731 INFO  service - Started process java (13900).
+2023-06-16T18:55:34.838 INFO  service - Service started successfully.
+2023-06-19T08:17:36.149 INFO  service - Stopping mynotes
+2023-06-19T08:17:36.257 DEBUG service - ProcessKill 13900
+2023-06-19T08:17:36.929 INFO  service - Child process 'java (13900)' canceled with code -1073741510.
+2023-06-19T08:17:37.447 INFO  service - Finished mynotes
+2023-06-19T08:17:37.452 INFO  service - Service was shut down successfully.
+2023-06-19T15:38:32.293 DEBUG console - Starting WinSW in service mode.
+2023-06-19T15:38:34.330 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-19T15:38:35.035 INFO  service - Starting java
+2023-06-19T15:38:36.443 INFO  service - Started process java (12220).
+2023-06-19T15:38:36.832 INFO  service - Service started successfully.
+2023-06-22T18:42:07.813 INFO  service - Stopping mynotes
+2023-06-22T18:42:08.226 DEBUG service - ProcessKill 12220
+2023-06-22T18:42:10.886 INFO  service - Child process 'java (12220)' canceled with code -1073741510.
+2023-06-22T18:42:19.651 INFO  service - Finished mynotes
+2023-06-22T18:42:19.662 INFO  service - Service was shut down successfully.
+2023-06-23T06:38:06.736 DEBUG console - Starting WinSW in service mode.
+2023-06-23T06:38:06.995 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-23T06:38:07.230 INFO  service - Starting java
+2023-06-23T06:38:08.157 INFO  service - Started process java (9860).
+2023-06-23T06:38:08.404 INFO  service - Service started successfully.
+2023-06-25T00:51:24.496 INFO  service - Stopping mynotes
+2023-06-25T00:51:24.837 DEBUG service - ProcessKill 9860
+2023-06-25T00:51:30.616 INFO  service - Child process 'java (9860)' canceled with code -1073741510.
+2023-06-25T00:51:30.818 INFO  service - Finished mynotes
+2023-06-25T00:51:31.401 INFO  service - Service was shut down successfully.
+2023-06-25T00:52:26.966 DEBUG console - Starting WinSW in service mode.
+2023-06-25T00:52:35.365 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-25T00:52:38.800 INFO  service - Starting java
+2023-06-25T00:52:40.638 INFO  service - Started process java (13368).
+2023-06-25T00:52:40.897 INFO  service - Service started successfully.
+2023-06-25T10:37:12.513 INFO  service - Stopping mynotes
+2023-06-25T10:37:12.811 DEBUG service - ProcessKill 13368
+2023-06-25T10:37:13.826 INFO  service - Child process 'java (13368)' canceled with code -1073741510.
+2023-06-25T10:37:17.237 INFO  service - Finished mynotes
+2023-06-25T10:37:17.243 INFO  service - Service was shut down successfully.
+2023-06-25T10:39:10.258 DEBUG console - Starting WinSW in service mode.
+2023-06-25T10:39:15.962 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-25T10:39:18.644 INFO  service - Starting java
+2023-06-25T10:39:19.832 INFO  service - Started process java (13528).
+2023-06-25T10:39:20.058 INFO  service - Service started successfully.
+2023-06-29T06:19:30.267 INFO  service - Stopping mynotes
+2023-06-29T06:19:31.762 DEBUG service - ProcessKill 13528
+2023-06-29T06:19:40.746 INFO  service - Child process 'java (13528)' canceled with code -1073741510.
+2023-06-29T06:19:40.969 INFO  service - Finished mynotes
+2023-06-29T06:19:41.464 INFO  service - Service was shut down successfully.
+2023-06-29T06:21:14.934 DEBUG console - Starting WinSW in service mode.
+2023-06-29T06:21:17.347 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-06-29T06:21:19.257 INFO  service - Starting java
+2023-06-29T06:21:21.431 INFO  service - Started process java (12960).
+2023-06-29T06:21:21.827 INFO  service - Service started successfully.
+2023-07-07T06:48:46.210 INFO  service - Stopping mynotes
+2023-07-07T06:48:46.748 DEBUG service - ProcessKill 12960
+2023-07-07T06:48:48.798 INFO  service - Child process 'java (12960)' canceled with code -1073741510.
+2023-07-07T06:48:49.276 INFO  service - Finished mynotes
+2023-07-07T06:48:49.352 INFO  service - Service was shut down successfully.
+2023-07-07T06:50:10.266 DEBUG console - Starting WinSW in service mode.
+2023-07-07T06:50:14.606 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-07T06:50:17.202 INFO  service - Starting java
+2023-07-07T06:50:22.370 INFO  service - Started process java (13316).
+2023-07-07T06:50:22.923 INFO  service - Service started successfully.
+2023-07-16T08:49:08.297 INFO  service - Stopping mynotes
+2023-07-16T08:49:10.121 DEBUG service - ProcessKill 13316
+2023-07-16T08:49:14.030 INFO  service - Child process 'java (13316)' canceled with code -1073741510.
+2023-07-16T08:49:20.077 INFO  service - Finished mynotes
+2023-07-16T08:49:20.094 INFO  service - Service was shut down successfully.
+2023-07-16T08:52:53.010 DEBUG console - Starting WinSW in service mode.
+2023-07-16T08:52:57.409 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-16T08:52:59.668 INFO  service - Starting java
+2023-07-16T08:53:01.059 INFO  service - Started process java (12416).
+2023-07-16T08:53:01.468 INFO  service - Service started successfully.
+2023-07-16T09:04:49.028 INFO  service - Stopping mynotes
+2023-07-16T09:04:49.319 DEBUG service - ProcessKill 12416
+2023-07-16T09:04:56.805 INFO  service - Child process 'java (12416)' canceled with code -1073741510.
+2023-07-17T07:46:07.115 DEBUG console - Starting WinSW in service mode.
+2023-07-17T07:46:10.018 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-17T07:46:11.777 INFO  service - Starting java
+2023-07-17T07:46:13.188 INFO  service - Started process java (13892).
+2023-07-17T07:46:13.418 INFO  service - Service started successfully.
+2023-07-19T07:33:27.039 INFO  service - Stopping mynotes
+2023-07-19T07:33:27.372 DEBUG service - ProcessKill 13892
+2023-07-19T07:33:34.439 INFO  service - Child process 'java (13892)' canceled with code -1073741510.
+2023-07-19T14:46:41.659 DEBUG console - Starting WinSW in service mode.
+2023-07-19T14:46:44.489 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-19T14:46:48.348 INFO  service - Starting java
+2023-07-19T14:46:49.081 INFO  service - Started process java (12684).
+2023-07-19T14:46:49.276 INFO  service - Service started successfully.
+2023-07-23T22:03:22.977 INFO  service - Stopping mynotes
+2023-07-23T22:03:23.946 DEBUG service - ProcessKill 12684
+2023-07-23T22:03:25.593 INFO  service - Child process 'java (12684)' canceled with code -1073741510.
+2023-07-23T22:03:28.242 INFO  service - Finished mynotes
+2023-07-23T22:03:28.249 INFO  service - Service was shut down successfully.
+2023-07-23T22:04:30.515 DEBUG console - Starting WinSW in service mode.
+2023-07-23T22:04:35.760 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-23T22:04:40.699 INFO  service - Starting java
+2023-07-23T22:04:41.416 INFO  service - Started process java (14280).
+2023-07-23T22:04:41.578 INFO  service - Service started successfully.
+2023-07-23T22:07:52.725 INFO  service - Stopping mynotes
+2023-07-23T22:07:52.812 DEBUG service - ProcessKill 14280
+2023-07-23T22:07:58.736 INFO  service - Child process 'java (14280)' canceled with code -1073741510.
+2023-07-23T22:07:58.935 INFO  service - Finished mynotes
+2023-07-23T22:07:59.848 INFO  service - Service was shut down successfully.
+2023-07-24T06:22:25.621 DEBUG console - Starting WinSW in service mode.
+2023-07-24T06:22:32.245 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-07-24T06:22:34.335 INFO  service - Starting java
+2023-07-24T06:22:36.100 INFO  service - Started process java (13220).
+2023-07-24T06:22:36.382 INFO  service - Service started successfully.
+2023-08-01T06:17:01.675 INFO  service - Stopping mynotes
+2023-08-01T06:17:02.017 DEBUG service - ProcessKill 13220
+2023-08-01T06:17:14.769 INFO  service - Child process 'java (13220)' canceled with code -1073741510.
+2023-08-01T06:18:27.182 DEBUG console - Starting WinSW in service mode.
+2023-08-01T06:18:30.183 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-01T06:18:32.156 INFO  service - Starting java
+2023-08-01T06:18:32.900 INFO  service - Started process java (13148).
+2023-08-01T06:18:33.067 INFO  service - Service started successfully.
+2023-08-03T08:06:13.339 INFO  service - Stopping mynotes
+2023-08-03T08:06:13.856 DEBUG service - ProcessKill 13148
+2023-08-03T08:06:18.229 INFO  service - Child process 'java (13148)' canceled with code -1073741510.
+2023-08-03T08:06:19.825 INFO  service - Finished mynotes
+2023-08-03T08:06:19.829 INFO  service - Service was shut down successfully.
+2023-08-03T08:10:25.432 DEBUG console - Starting WinSW in service mode.
+2023-08-03T08:10:25.939 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-03T08:10:26.321 INFO  service - Starting java
+2023-08-03T08:10:30.147 INFO  service - Started process java (10000).
+2023-08-03T08:10:30.511 INFO  service - Service started successfully.
+2023-08-09T07:14:17.119 DEBUG console - Starting WinSW in service mode.
+2023-08-09T07:14:20.325 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-09T07:14:22.229 INFO  service - Starting java
+2023-08-09T07:14:23.835 INFO  service - Started process java (13232).
+2023-08-09T07:14:24.019 INFO  service - Service started successfully.
+2023-08-10T07:33:36.894 DEBUG console - Starting WinSW in service mode.
+2023-08-10T07:33:38.045 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-10T07:33:38.347 INFO  service - Starting java
+2023-08-10T07:33:44.278 INFO  service - Started process java (13264).
+2023-08-10T07:33:44.728 INFO  service - Service started successfully.
+2023-08-11T14:02:35.298 DEBUG console - Starting WinSW in service mode.
+2023-08-11T14:02:38.254 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-11T14:02:40.629 INFO  service - Starting java
+2023-08-11T14:02:41.344 INFO  service - Started process java (12416).
+2023-08-11T14:02:41.484 INFO  service - Service started successfully.
+2023-08-12T18:12:03.121 DEBUG console - Starting WinSW in service mode.
+2023-08-12T18:12:06.568 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-12T18:12:08.228 INFO  service - Starting java
+2023-08-12T18:12:09.512 INFO  service - Started process java (12596).
+2023-08-12T18:12:09.654 INFO  service - Service started successfully.
+2023-08-19T06:28:05.208 INFO  service - Stopping mynotes
+2023-08-19T06:28:05.280 DEBUG service - ProcessKill 12596
+2023-08-19T06:28:10.819 INFO  service - Child process 'java (12596)' canceled with code -1073741510.
+2023-08-19T06:28:12.092 INFO  service - Finished mynotes
+2023-08-19T06:28:12.096 INFO  service - Service was shut down successfully.
+2023-08-19T14:55:08.992 DEBUG console - Starting WinSW in service mode.
+2023-08-19T14:55:10.698 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-19T14:55:15.198 INFO  service - Starting java
+2023-08-19T14:55:16.444 INFO  service - Started process java (11000).
+2023-08-19T14:55:16.735 INFO  service - Service started successfully.
+2023-08-19T14:58:29.856 INFO  service - Stopping mynotes
+2023-08-19T14:58:29.881 DEBUG service - ProcessKill 11000
+2023-08-19T14:58:30.782 INFO  service - Child process 'java (11000)' canceled with code -1073741510.
+2023-08-19T14:58:31.097 INFO  service - Finished mynotes
+2023-08-19T14:58:31.102 INFO  service - Service was shut down successfully.
+2023-08-19T15:01:05.659 DEBUG console - Starting WinSW in service mode.
+2023-08-19T15:01:08.378 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-19T15:01:09.250 INFO  service - Starting java
+2023-08-19T15:01:11.770 INFO  service - Started process java (12736).
+2023-08-19T15:01:11.968 INFO  service - Service started successfully.
+2023-08-22T09:10:41.033 INFO  service - Stopping mynotes
+2023-08-22T09:10:41.076 DEBUG service - ProcessKill 12736
+2023-08-22T09:10:42.130 INFO  service - Child process 'java (12736)' canceled with code -1073741510.
+2023-08-22T09:10:43.263 INFO  service - Finished mynotes
+2023-08-22T09:10:43.274 INFO  service - Service stopped successfully.
+2023-08-22T11:09:47.793 DEBUG console - Starting WinSW in service mode.
+2023-08-22T11:09:52.272 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-22T11:09:55.549 INFO  service - Starting java
+2023-08-22T11:09:56.597 INFO  service - Started process java (13920).
+2023-08-22T11:09:56.839 INFO  service - Service started successfully.
+2023-08-22T12:06:06.722 INFO  service - Stopping mynotes
+2023-08-22T12:06:07.946 DEBUG service - ProcessKill 13920
+2023-08-22T12:06:15.176 INFO  service - Child process 'java (13920)' canceled with code -1073741510.
+2023-08-22T12:07:24.547 DEBUG console - Starting WinSW in service mode.
+2023-08-22T12:07:26.416 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-22T12:07:28.697 INFO  service - Starting java
+2023-08-22T12:07:30.267 INFO  service - Started process java (11148).
+2023-08-22T12:07:30.505 INFO  service - Service started successfully.
+2023-08-22T16:07:19.244 INFO  service - Stopping mynotes
+2023-08-22T16:07:19.299 DEBUG service - ProcessKill 11148
+2023-08-22T16:07:20.503 INFO  service - Child process 'java (11148)' canceled with code -1073741510.
+2023-08-22T16:07:21.631 INFO  service - Finished mynotes
+2023-08-22T16:07:21.637 INFO  service - Service stopped successfully.
+2023-08-22T16:26:15.101 DEBUG console - Starting WinSW in service mode.
+2023-08-22T16:26:15.915 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-22T16:26:16.315 INFO  service - Starting java
+2023-08-22T16:26:27.426 INFO  service - Started process java (22808).
+2023-08-22T16:26:32.104 INFO  service - Service started successfully.
+2023-08-22T16:52:28.986 INFO  service - Stopping mynotes
+2023-08-22T16:52:29.014 DEBUG service - ProcessKill 22808
+2023-08-22T16:52:29.427 INFO  service - Child process 'java (22808)' canceled with code -1073741510.
+2023-08-22T16:52:30.172 INFO  service - Finished mynotes
+2023-08-22T16:52:30.178 INFO  service - Service stopped successfully.
+2023-08-22T16:55:40.298 DEBUG console - Starting WinSW in service mode.
+2023-08-22T16:55:40.556 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-22T16:55:40.604 INFO  service - Starting java
+2023-08-22T16:55:41.251 INFO  service - Started process java (19832).
+2023-08-22T16:55:41.401 INFO  service - Service started successfully.
+2023-08-23T06:23:22.279 INFO  service - Stopping mynotes
+2023-08-23T06:23:22.339 DEBUG service - ProcessKill 19832
+2023-08-23T06:23:23.082 INFO  service - Child process 'java (19832)' canceled with code -1073741510.
+2023-08-23T06:23:24.477 INFO  service - Finished mynotes
+2023-08-23T06:23:24.484 INFO  service - Service stopped successfully.
+2023-08-25T07:14:10.908 DEBUG console - Starting WinSW in service mode.
+2023-08-25T07:14:14.574 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-25T07:14:17.474 INFO  service - Starting java
+2023-08-25T07:14:19.716 INFO  service - Started process java (13156).
+2023-08-25T07:14:19.953 INFO  service - Service started successfully.
+2023-08-25T15:03:49.890 INFO  service - Stopping mynotes
+2023-08-25T15:03:50.220 DEBUG service - ProcessKill 13156
+2023-08-25T15:03:54.950 INFO  service - Child process 'java (13156)' canceled with code -1073741510.
+2023-08-25T15:03:55.823 INFO  service - Finished mynotes
+2023-08-25T15:03:55.830 INFO  service - Service was shut down successfully.
+2023-08-27T07:35:55.292 DEBUG console - Starting WinSW in service mode.
+2023-08-27T07:35:58.435 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-08-27T07:36:01.454 INFO  service - Starting java
+2023-08-27T07:36:02.032 INFO  service - Started process java (12800).
+2023-08-27T07:36:02.147 INFO  service - Service started successfully.
+2023-09-02T07:29:13.299 INFO  service - Stopping mynotes
+2023-09-02T07:29:13.883 DEBUG service - ProcessKill 12800
+2023-09-02T07:29:14.824 INFO  service - Child process 'java (12800)' canceled with code -1073741510.
+2023-09-02T14:04:02.071 DEBUG console - Starting WinSW in service mode.
+2023-09-02T14:04:03.351 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-02T14:04:04.571 INFO  service - Starting java
+2023-09-02T14:04:05.322 INFO  service - Started process java (11400).
+2023-09-02T14:04:05.391 INFO  service - Service started successfully.
+2023-09-07T07:46:09.207 DEBUG console - Starting WinSW in service mode.
+2023-09-07T07:46:13.581 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-07T07:46:16.329 INFO  service - Starting java
+2023-09-07T07:46:17.648 INFO  service - Started process java (12436).
+2023-09-07T07:46:18.117 INFO  service - Service started successfully.
+2023-09-17T07:29:08.147 INFO  service - Stopping mynotes
+2023-09-17T07:29:08.650 DEBUG service - ProcessKill 12436
+2023-09-17T07:29:10.612 INFO  service - Child process 'java (12436)' canceled with code -1073741510.
+2023-09-17T07:29:19.501 INFO  service - Finished mynotes
+2023-09-17T07:29:19.510 INFO  service - Service was shut down successfully.
+2023-09-17T07:44:54.731 DEBUG console - Starting WinSW in service mode.
+2023-09-17T07:44:56.791 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-17T07:44:57.237 INFO  service - Starting java
+2023-09-17T07:44:59.138 INFO  service - Started process java (11964).
+2023-09-17T07:44:59.542 INFO  service - Service started successfully.
+2023-09-20T07:54:31.764 INFO  service - Stopping mynotes
+2023-09-20T07:54:32.125 DEBUG service - ProcessKill 11964
+2023-09-20T07:54:38.270 INFO  service - Child process 'java (11964)' canceled with code -1073741510.
+2023-09-20T08:21:59.715 DEBUG console - Starting WinSW in service mode.
+2023-09-20T08:22:01.017 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-20T08:22:03.685 INFO  service - Starting java
+2023-09-20T08:22:04.185 INFO  service - Started process java (12084).
+2023-09-20T08:22:04.297 INFO  service - Service started successfully.
+2023-09-25T07:50:17.269 INFO  service - Stopping mynotes
+2023-09-25T07:50:17.720 DEBUG service - ProcessKill 12084
+2023-09-25T07:50:25.958 INFO  service - Child process 'java (12084)' canceled with code -1073741510.
+2023-09-25T07:50:26.988 INFO  service - Finished mynotes
+2023-09-25T07:50:26.996 INFO  service - Service was shut down successfully.
+2023-09-25T07:52:26.587 DEBUG console - Starting WinSW in service mode.
+2023-09-25T07:52:30.245 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-25T07:52:31.775 INFO  service - Starting java
+2023-09-25T07:52:35.501 INFO  service - Started process java (12784).
+2023-09-25T07:52:35.999 INFO  service - Service started successfully.
+2023-09-27T22:02:02.860 INFO  service - Stopping mynotes
+2023-09-27T22:02:03.899 DEBUG service - ProcessKill 12784
+2023-09-27T22:02:08.077 INFO  service - Child process 'java (12784)' canceled with code -1073741510.
+2023-09-27T22:02:08.866 INFO  service - Finished mynotes
+2023-09-27T22:02:08.874 INFO  service - Service was shut down successfully.
+2023-09-27T22:02:59.226 DEBUG console - Starting WinSW in service mode.
+2023-09-27T22:03:04.412 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-09-27T22:03:08.237 INFO  service - Starting java
+2023-09-27T22:03:12.231 INFO  service - Started process java (13588).
+2023-09-27T22:03:13.052 INFO  service - Service started successfully.
+2023-10-02T14:10:00.424 DEBUG console - Starting WinSW in service mode.
+2023-10-02T14:10:03.445 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-02T14:10:06.169 INFO  service - Starting java
+2023-10-02T14:10:07.142 INFO  service - Started process java (12176).
+2023-10-02T14:10:07.447 INFO  service - Service started successfully.
+2023-10-04T14:41:05.386 INFO  service - Stopping mynotes
+2023-10-04T14:41:06.076 DEBUG service - ProcessKill 12176
+2023-10-04T14:41:07.309 INFO  service - Child process 'java (12176)' canceled with code -1073741510.
+2023-10-04T14:42:30.605 DEBUG console - Starting WinSW in service mode.
+2023-10-04T14:42:31.078 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-04T14:42:31.661 INFO  service - Starting java
+2023-10-04T14:42:33.469 INFO  service - Started process java (11576).
+2023-10-04T14:42:34.076 INFO  service - Service started successfully.
+2023-10-08T08:06:03.143 INFO  service - Stopping mynotes
+2023-10-08T08:06:05.527 DEBUG service - ProcessKill 11576
+2023-10-08T08:06:09.472 INFO  service - Child process 'java (11576)' canceled with code -1073741510.
+2023-10-08T08:06:15.568 INFO  service - Finished mynotes
+2023-10-08T08:06:15.575 INFO  service - Service was shut down successfully.
+2023-10-09T14:38:04.190 DEBUG console - Starting WinSW in service mode.
+2023-10-09T14:38:07.364 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-09T14:38:10.492 INFO  service - Starting java
+2023-10-09T14:38:12.284 INFO  service - Started process java (13544).
+2023-10-09T14:38:12.509 INFO  service - Service started successfully.
+2023-10-13T06:44:02.974 INFO  service - Stopping mynotes
+2023-10-13T06:44:03.183 DEBUG service - ProcessKill 13544
+2023-10-13T06:44:08.009 INFO  service - Child process 'java (13544)' canceled with code -1073741510.
+2023-10-13T06:44:09.122 INFO  service - Finished mynotes
+2023-10-13T06:44:09.687 INFO  service - Service was shut down successfully.
+2023-10-13T06:48:35.788 DEBUG console - Starting WinSW in service mode.
+2023-10-13T06:48:36.411 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-13T06:48:36.891 INFO  service - Starting java
+2023-10-13T06:48:39.043 INFO  service - Started process java (11184).
+2023-10-13T06:48:39.495 INFO  service - Service started successfully.
+2023-10-13T15:14:39.615 INFO  service - Stopping mynotes
+2023-10-13T15:14:39.877 DEBUG service - ProcessKill 11184
+2023-10-13T15:14:41.827 INFO  service - Child process 'java (11184)' canceled with code -1073741510.
+2023-10-13T15:14:43.282 INFO  service - Finished mynotes
+2023-10-13T15:14:43.295 INFO  service - Service was shut down successfully.
+2023-10-13T15:15:57.797 DEBUG console - Starting WinSW in service mode.
+2023-10-13T15:16:01.656 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-13T15:16:04.347 INFO  service - Starting java
+2023-10-13T15:16:05.489 INFO  service - Started process java (12604).
+2023-10-13T15:16:05.809 INFO  service - Service started successfully.
+2023-10-20T06:20:44.854 INFO  service - Stopping mynotes
+2023-10-20T06:20:45.128 DEBUG service - ProcessKill 12604
+2023-10-20T06:20:50.824 INFO  service - Child process 'java (12604)' canceled with code -1073741510.
+2023-10-20T06:20:51.476 INFO  service - Finished mynotes
+2023-10-20T06:20:51.490 INFO  service - Service was shut down successfully.
+2023-10-20T06:23:36.277 DEBUG console - Starting WinSW in service mode.
+2023-10-20T06:23:37.410 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-20T06:23:38.626 INFO  service - Starting java
+2023-10-20T06:23:39.438 INFO  service - Started process java (10688).
+2023-10-20T06:23:39.629 INFO  service - Service started successfully.
+2023-10-21T14:08:46.260 INFO  service - Stopping mynotes
+2023-10-21T14:08:47.182 DEBUG service - ProcessKill 10688
+2023-10-21T14:08:48.242 INFO  service - Child process 'java (10688)' canceled with code -1073741510.
+2023-10-21T14:08:49.970 INFO  service - Finished mynotes
+2023-10-21T14:08:49.991 INFO  service - Service was shut down successfully.
+2023-10-21T14:09:49.276 DEBUG console - Starting WinSW in service mode.
+2023-10-21T14:09:49.570 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-21T14:09:49.653 INFO  service - Starting java
+2023-10-21T14:09:51.990 INFO  service - Started process java (10780).
+2023-10-21T14:09:52.615 INFO  service - Service started successfully.
+2023-10-21T14:18:23.648 INFO  service - Stopping mynotes
+2023-10-21T14:18:24.020 DEBUG service - ProcessKill 10780
+2023-10-21T14:18:27.552 INFO  service - Child process 'java (10780)' canceled with code -1073741510.
+2023-10-21T14:18:27.793 INFO  service - Finished mynotes
+2023-10-21T14:18:27.803 INFO  service - Service was shut down successfully.
+2023-10-21T15:04:05.705 DEBUG console - Starting WinSW in service mode.
+2023-10-21T15:04:07.319 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-21T15:04:07.957 INFO  service - Starting java
+2023-10-21T15:04:09.281 INFO  service - Started process java (12484).
+2023-10-21T15:04:09.814 INFO  service - Service started successfully.
+2023-10-21T19:51:19.627 INFO  service - Stopping mynotes
+2023-10-21T19:51:19.853 DEBUG service - ProcessKill 12484
+2023-10-21T19:51:27.560 INFO  service - Child process 'java (12484)' canceled with code -1073741510.
+2023-10-21T19:51:28.128 INFO  service - Finished mynotes
+2023-10-21T19:51:28.142 INFO  service - Service was shut down successfully.
+2023-10-22T07:34:59.687 DEBUG console - Starting WinSW in service mode.
+2023-10-22T07:35:01.437 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-22T07:35:02.334 INFO  service - Starting java
+2023-10-22T07:35:08.659 INFO  service - Started process java (11552).
+2023-10-22T07:35:10.098 INFO  service - Service started successfully.
+2023-10-22T08:14:19.166 INFO  service - Stopping mynotes
+2023-10-22T08:14:19.561 DEBUG service - ProcessKill 11552
+2023-10-22T08:14:26.700 INFO  service - Child process 'java (11552)' canceled with code -1073741510.
+2023-10-22T08:14:27.424 INFO  service - Finished mynotes
+2023-10-22T08:14:27.593 INFO  service - Service was shut down successfully.
+2023-10-22T08:32:06.033 DEBUG console - Starting WinSW in service mode.
+2023-10-22T08:32:06.545 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-22T08:32:06.717 INFO  service - Starting java
+2023-10-22T08:32:11.093 INFO  service - Started process java (11224).
+2023-10-22T08:32:11.770 INFO  service - Service started successfully.
+2023-10-25T06:39:46.832 INFO  service - Stopping mynotes
+2023-10-25T06:39:47.560 DEBUG service - ProcessKill 11224
+2023-10-25T06:39:48.398 INFO  service - Child process 'java (11224)' canceled with code -1073741510.
+2023-10-25T06:41:10.139 DEBUG console - Starting WinSW in service mode.
+2023-10-25T06:41:13.225 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-25T06:41:16.587 INFO  service - Starting java
+2023-10-25T06:41:18.153 INFO  service - Started process java (12356).
+2023-10-25T06:41:18.382 INFO  service - Service started successfully.
+2023-10-25T14:59:54.790 DEBUG console - Starting WinSW in service mode.
+2023-10-25T14:59:58.468 INFO  console - Service 'mynotes (mynotes)' was refreshed successfully.
+2023-10-25T15:00:00.751 INFO  service - Starting java
+2023-10-25T15:00:02.025 INFO  service - Started process java (12768).
+2023-10-25T15:00:02.265 INFO  service - Service started successfully.
